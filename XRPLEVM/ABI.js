@@ -6664,5 +6664,5 @@ const ABI = [
     },
   ];
   
-  module.exports = ABI;
+module.exports = ABI;
     
