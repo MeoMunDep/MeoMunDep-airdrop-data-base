@@ -154,7 +154,6 @@
       stateMutability: 'nonpayable',
       type: 'function',
     },
-  [
     {
       inputs: [],
       stateMutability: 'nonpayable',
