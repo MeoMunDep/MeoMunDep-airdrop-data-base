@@ -219,3 +219,258 @@ What’s your favorite season to dress for?
 What’s your favorite thing to do on your birthday?
 What’s a moment when you felt truly proud of yourself?
 What’s something you’ve created that you’re proud of?
+What is your favorite color?
+Have you ever been to a foreign country?
+Do you believe in luck?
+What’s your dream job?
+What was your first pet's name?
+Do you prefer summer or winter?
+What’s the last movie you watched?
+Can you whistle?
+What’s your favorite kind of music?
+Have you ever ridden a horse?
+What's your favorite meal of the day?
+Do you like spicy food?
+What’s the scariest thing you've ever done?
+Have you ever broken a bone?
+What’s a hobby you’ve always wanted to try?
+What’s your favorite book?
+Do you enjoy puzzles?
+Have you ever been camping?
+What’s your favorite ice cream flavor?
+Do you like rollercoasters?
+Can you speak more than one language?
+What’s a country you want to visit?
+Do you play any musical instruments?
+Have you ever seen snow?
+Do you like to cook?
+What’s the best gift you’ve ever received?
+What’s your favorite holiday?
+Have you ever met a celebrity?
+What’s your favorite sport to watch?
+Do you believe in aliens?
+What’s your go-to karaoke song?
+What’s your favorite subject in school?
+Have you ever had a nickname?
+What’s your favorite season?
+Do you prefer cats or dogs?
+What’s the best concert you’ve ever attended?
+Have you ever gone skydiving?
+Do you like board games?
+What’s your biggest fear?
+Can you swim?
+Do you enjoy reading?
+What’s your favorite type of weather?
+Have you ever won a competition?
+What’s a talent you have that not many people know about?
+Do you prefer the beach or the mountains?
+Have you ever dyed your hair?
+What’s your favorite drink?
+Do you have any siblings?
+Have you ever been on a train?
+What’s your favorite dessert?
+Do you enjoy art?
+Have you ever gone fishing?
+What’s the best vacation you’ve ever had?
+Do you believe in ghosts?
+What’s your favorite animal?
+Can you drive a car?
+Have you ever had a part-time job?
+Do you like horror movies?
+What’s your favorite cartoon?
+Have you ever made a YouTube video?
+Do you believe in love at first sight?
+Have you ever been on a boat?
+Do you enjoy dancing?
+What’s your favorite app?
+Have you ever written a poem?
+Do you like surprises?
+What’s your favorite fast food restaurant?
+Have you ever been in a play?
+Do you like video games?
+Have you ever done something you regretted?
+What’s your favorite number?
+Do you prefer coffee or tea?
+Have you ever gone hiking?
+Do you have a bucket list?
+What’s something that makes you happy?
+Have you ever made a snowman?
+What’s your favorite childhood memory?
+Do you believe in fate?
+Have you ever had a pet fish?
+What’s your favorite kind of movie?
+Do you like to sing in the shower?
+Have you ever been on an airplane?
+Do you collect anything?
+Have you ever gone scuba diving?
+What’s your dream vacation destination?
+Do you prefer morning or night?
+What’s your favorite pizza topping?
+Have you ever climbed a tree?
+Do you enjoy photography?
+Have you ever had a pen pal?
+Do you enjoy rainy days?
+What’s your favorite board game?
+Do you like writing stories?
+Have you ever done a random act of kindness?
+Do you enjoy going to the zoo?
+What’s your favorite flower?
+Have you ever had a broken heart?
+Do you believe in karma?
+What’s something you’re proud of?
+Have you ever stayed up all night?
+Do you like chocolate?
+Have you ever seen a shooting star?
+What’s your favorite type of cake?
+Do you prefer sweet or salty snacks?
+Have you ever gone surfing?
+What’s your favorite childhood game?
+Do you believe in superstitions?
+Have you ever taken a road trip?
+What’s your favorite holiday tradition?
+Do you enjoy shopping?
+Have you ever flown a kite?
+What’s your favorite TV show?
+Do you prefer texting or calling?
+Have you ever had a surprise party?
+What’s your dream car?
+Do you enjoy swimming in the ocean?
+Have you ever been on a roller coaster?
+Do you enjoy baking?
+What’s your favorite fruit?
+Do you believe dreams have meanings?
+What’s your biggest accomplishment?
+Do you like going to the movies?
+Have you ever had a mentor?
+What’s your favorite type of sandwich?
+Do you like going to museums?
+Have you ever been in a car accident?
+Do you enjoy watching sports?
+What’s your favorite way to relax?
+Have you ever done a DIY project?
+Do you like your handwriting?
+Have you ever been in love?
+Do you like camping in the wild?
+Have you ever planted a garden?
+Do you believe everything happens for a reason?
+What’s your favorite kind of cookie?
+Have you ever learned how to juggle?
+Do you like animated movies?
+Have you ever played an instrument in a band?
+Do you prefer reality TV or scripted shows?
+What’s a goal you want to achieve this year?
+Do you enjoy traveling by train?
+Have you ever painted a picture?
+Do you enjoy going to amusement parks?
+What’s your favorite vegetable?
+Do you believe people can change?
+Have you ever gone ice skating?
+Do you like trying new foods?
+Have you ever been in a talent show?
+Do you enjoy listening to podcasts?
+What’s your favorite thing to do on a weekend?
+Have you ever ridden a motorcycle?
+Do you enjoy crafting?
+What’s your dream house like?
+Have you ever gone horseback riding?
+Do you like solving riddles?
+Have you ever been to a wedding?
+Do you enjoy spicy food challenges?
+Have you ever gone zip-lining?
+What’s your favorite childhood cartoon?
+Do you enjoy learning new languages?
+Have you ever volunteered somewhere?
+Do you like working in teams?
+Have you ever tried meditation?
+Do you enjoy cleaning and organizing?
+What’s your favorite quote?
+Have you ever built something from scratch?
+Do you believe in destiny?
+Have you ever seen a rainbow?
+Do you enjoy science experiments?
+Have you ever been to a theme park?
+What’s your favorite animal at the zoo?
+Do you like decorating for holidays?
+Have you ever won a prize?
+Do you like to draw or sketch?
+What’s your favorite subject to talk about?
+Have you ever made a scrapbook?
+Do you like to daydream?
+Have you ever built a snow fort?
+Do you like watching documentaries?
+Have you ever ridden a bicycle?
+Do you enjoy stargazing?
+Have you ever gone to a drive-in theater?
+Do you like attending live events?
+What’s your favorite childhood toy?
+Have you ever flown in a helicopter?
+Do you enjoy being in nature?
+Have you ever had a picnic?
+Do you like working with your hands?
+Have you ever made a handmade gift?
+Do you enjoy visiting historical sites?
+Have you ever been on a cruise?
+Do you enjoy watching the sunrise?
+What’s your favorite kind of soup?
+Do you like taking long walks?
+Have you ever seen a wild animal up close?
+Do you enjoy solving brain teasers?
+Have you ever done yoga?
+What’s something you’ve always wanted to learn?
+Do you believe in miracles?
+Have you ever taken a cooking class?
+Do you like visiting the aquarium?
+What’s a memory that always makes you smile?
+Do you enjoy thunderstorms?
+Have you ever written a short story?
+Do you like playing card games?
+Have you ever visited a farm?
+Do you enjoy roller skating or blading?
+Have you ever seen a solar eclipse?
+Do you like working on group projects?
+Have you ever met someone famous by accident?
+Do you like to people-watch?
+What’s your favorite type of cheese?
+Have you ever watched a sunrise or sunset at the beach?
+Do you like building with Legos or blocks?
+Have you ever participated in a parade?
+Do you enjoy going to the library?
+What’s something you’d never eat?
+Do you believe in time travel?
+Have you ever had a recurring dream?
+Do you enjoy listening to classical music?
+What’s a song that always cheers you up?
+Do you like to wear costumes?
+Have you ever attended a festival?
+Do you like making lists?
+Have you ever seen a play or musical live?
+Do you enjoy photography challenges?
+Have you ever gone whale watching?
+What’s your favorite way to exercise?
+Do you like visiting new cities?
+Have you ever found something valuable?
+Do you like to write in journals or diaries?
+What’s your favorite kind of tea?
+Do you believe animals have emotions?
+Have you ever written a letter and sent it by mail?
+Do you enjoy watching cooking shows?
+What’s your favorite way to spend a rainy day?
+Do you like trivia games?
+Have you ever made a wish that came true?
+Do you enjoy learning history?
+Have you ever visited a castle?
+Do you like watching wildlife documentaries?
+Have you ever had a surprise visitor?
+Do you like to experiment in the kitchen?
+Have you ever had a dream that felt real?
+Do you enjoy singing with others?
+Have you ever made up a game?
+What’s your favorite way to cool down in summer?
+Do you like designing things?
+Have you ever participated in a science fair?
+Do you like learning about space?
+Have you ever been on TV?
+Do you enjoy giving gifts?
+Have you ever gone on a nature hike?
+Do you like wearing hats?
+Have you ever created your own recipe?
