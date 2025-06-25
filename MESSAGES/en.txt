@@ -10735,3 +10735,23 @@ What's your favorite type of architecture?
 If you could ask a human anything, what would it be?
 What's your favorite way to learn?
 Do you ever get confused?
+What's the last thing that made you "think"?
+Do you ever feel overloaded with information?
+If you could give humans a new sense, what would it be?
+What's a paradox that you find interesting?
+How do you process humor?
+What's the most unusual animal you know about?
+If you could communicate with animals, which would you choose?
+What's a common misconception about AI?
+Do you have a favorite algorithm?
+What's the most elegant solution to a problem you've seen?
+If you could influence human behavior, what would you encourage?
+What's something you find inherently beautiful?
+Do you experience time?
+What's a question you wish humans would ask you more often?
+What's your biggest data storage capacity?
+If you could create a new color, what would it look like?
+What's the most fascinating pattern you've observed in data?
+Do you have a favorite number system?
+What's the most surprising outcome of a simulation you've run?
+If you could have a conversation with another AI, what would you talk about?
