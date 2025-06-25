@@ -9716,3 +9716,112 @@ What is a wallet signature
 What is sign-in with Ethereum
 What is delegated proof of stake
 What is a light client
+What is cryptocurrency?
+How does blockchain technology work?
+Define a decentralized network.
+What is Bitcoin and its significance?
+Explain the concept of mining in crypto.
+What is Proof of Work consensus mechanism?
+What is Proof of Stake consensus mechanism?
+Differentiate between a public and private blockchain.
+What are smart contracts?
+How does Ethereum differ from Bitcoin?
+What is a crypto wallet?
+Explain the difference between hot and cold wallets.
+What are stablecoins?
+Give examples of popular stablecoins.
+What is a decentralized application (dApp)?
+How do dApps utilize blockchain technology?
+What is tokenization?
+What are the main advantages of cryptocurrency?
+What are the potential disadvantages of cryptocurrency?
+How is cryptography used in blockchain?
+What is a cryptographic hash?
+Explain the concept of immutability in blockchain.
+What is a block in a blockchain?
+How are blocks linked together?
+What is a genesis block?
+What is a Merkle tree?
+How does a peer-to-peer network function in crypto?
+What is a 51% attack?
+How can a 51% attack be mitigated?
+What are altcoins?
+List some prominent altcoins other than Ethereum.
+What is the purpose of gas fees in Ethereum?
+How do decentralized exchanges (DEXs) work?
+What is yield farming?
+What is staking in cryptocurrency?
+What is liquidity mining?
+Explain the concept of Wrapped Bitcoin (WBTC).
+What is a private key?
+What is a public key?
+How do you secure your crypto assets?
+What is a seed phrase or recovery phrase?
+What is a hardware wallet?
+What is a software wallet?
+How can crypto be stolen?
+What is phishing in the context of crypto?
+What are "rug pulls" in crypto projects?
+What is market capitalization in crypto?
+What factors influence cryptocurrency prices?
+How does supply and demand affect crypto value?
+What is a blockchain explorer?
+How do you track transactions on a blockchain?
+What are Layer 2 solutions?
+Give examples of Layer 2 solutions.
+What is sharding in blockchain?
+What is cross-chain interoperability?
+What are oracles in blockchain?
+What is a Decentralized Autonomous Organization (DAO)?
+How do DAOs operate?
+What is Web3?
+How does crypto relate to Web3?
+What are non-fungible tokens (NFTs)?
+How do NFTs derive their value?
+What is the difference between fungible and non-fungible tokens?
+What are the use cases for NFTs?
+What is cryptocurrency regulation like in your country?
+Are cryptocurrencies considered legal tender?
+How are crypto gains taxed?
+What is KYC (Know Your Customer) in crypto?
+What is AML (Anti-Money Laundering) in crypto?
+What is a central bank digital currency (CBDC)?
+How do CBDCs differ from decentralized cryptocurrencies?
+What is the Lightning Network?
+How does the Lightning Network improve Bitcoin scalability?
+What is atomic swap?
+What is a hard fork in blockchain?
+What is a soft fork in blockchain?
+What is a blockchain bridge?
+What are the risks associated with investing in crypto?
+How can one research a cryptocurrency project?
+What is whitepaper in crypto?
+What is a roadmap in a crypto project?
+What is community sentiment in crypto?
+What is on-chain data analysis?
+What is off-chain data?
+How do you assess the security of a blockchain network?
+What is a smart contract audit?
+What is a bug bounty program in crypto?
+What is the role of nodes in a blockchain network?
+What is decentralization in the context of governance?
+What is governance token?
+How do governance tokens function?
+What is a rebase token?
+What is a burning mechanism in crypto?
+What is circulating supply versus total supply?
+What is the halving event in Bitcoin?
+How does the halving affect Bitcoin's price?
+What is the metaverse in relation to crypto?
+What are play-to-earn games?
+What is GameFi?
+What is SocialFi?
+How does blockchain enable supply chain traceability?
+What is real-world asset (RWA) tokenization?
+What are the environmental concerns related to crypto mining?
+What are solutions being proposed for crypto's environmental impact?
+What is enterprise blockchain?
+How can blockchain be used in healthcare?
+How can blockchain be used in voting systems?
+What is quantum computing's potential impact on cryptography?
+How are blockchain systems preparing for quantum computing?
