@@ -10359,3 +10359,116 @@ What is the impact of AI on blockchain security?
 How can AI enhance data management on blockchain?
 What is the synergy between AI and smart contracts?
 How can AI optimize supply chain management using blockchain?
+What is cryptocurrency?
+How does blockchain technology work?
+Explain the concept of decentralization in crypto.
+What is Bitcoin?
+What is Ethereum?
+What are altcoins?
+How is a digital wallet used for cryptocurrency?
+What is a private key?
+What is a public key?
+How do you send and receive cryptocurrency?
+What is a transaction fee in crypto?
+What is a block in a blockchain?
+How are blocks added to the blockchain?
+What is mining in cryptocurrency?
+What is Proof of Work?
+What is Proof of Stake?
+Compare Proof of Work and Proof of Stake.
+What is a smart contract?
+Where are smart contracts primarily used?
+What is DeFi?
+Give examples of DeFi applications.
+What is a decentralized exchange?
+How do decentralized exchanges differ from centralized exchanges?
+What are liquidity pools?
+What is yield farming?
+What is an NFT?
+How is an NFT different from a cryptocurrency?
+What gives an NFT value?
+How are NFTs created or "minted"?
+What are some common use cases for NFTs?
+What are the risks associated with investing in NFTs?
+What is a stablecoin?
+Why are stablecoins important in the crypto market?
+What is the difference between a centralized and decentralized stablecoin?
+What is a token?
+What is the difference between a coin and a token?
+What is tokenomics?
+What is cryptography's role in cryptocurrency?
+Explain hashing in blockchain.
+What is a 51% attack?
+How does blockchain prevent double-spending?
+What is a hard fork?
+What is a soft fork?
+What is a blockchain explorer?
+What is a dApp?
+How do dApps differ from traditional applications?
+What are some challenges facing widespread dApp adoption?
+What is interoperability in the context of blockchain?
+Why is cross-chain interoperability important?
+What is a sidechain?
+What is a layer 2 solution?
+Give examples of layer 2 solutions.
+How do layer 2 solutions improve scalability?
+What is gas in Ethereum?
+How are gas fees calculated?
+What is the purpose of a consensus mechanism?
+Name other consensus mechanisms besides PoW and PoS.
+What is a genesis block?
+What is a Merkle tree?
+How does a peer-to-peer network function in crypto?
+What are the main advantages of blockchain technology?
+What are some drawbacks of blockchain technology?
+What are the regulatory challenges for cryptocurrencies?
+How do different countries approach crypto regulation?
+What is KYC in crypto?
+What is AML in crypto?
+Why is security paramount in crypto?
+What are common crypto scams?
+How can users protect their crypto assets?
+What is a cold wallet?
+What is a hot wallet?
+Compare cold and hot wallets.
+What is seed phrase recovery?
+What is multifactor authentication in crypto?
+How important is community in a crypto project?
+What is a whitepaper in crypto?
+What is the purpose of a crypto audit?
+What is a testnet in blockchain development?
+What is a mainnet in blockchain development?
+How do smart contracts handle upgrades or bug fixes?
+What is an oracle in DeFi?
+Why are oracles necessary for smart contracts?
+What is MEV?
+What is staking?
+What is wrapped Bitcoin?
+What is the role of governance tokens?
+How does decentralized autonomous organizations (DAOs) work?
+What are some benefits of DAOs?
+What are some challenges of DAOs?
+What is the metaverse in relation to crypto?
+How do NFTs fit into the metaverse?
+What is GameFi?
+What is Web3?
+How does crypto contribute to Web3?
+What are zero-knowledge proofs?
+What is sharding?
+How can blockchain be used beyond finance?
+What are some environmental concerns regarding crypto?
+How are these environmental concerns being addressed?
+What is the future outlook for cryptocurrency adoption?
+What role might central bank digital currencies play?
+How could quantum computing impact cryptography?
+What is the potential impact of blockchain on global supply chains?
+How can blockchain enhance data privacy?
+What is a token burn?
+Why do projects perform token burns?
+What is price volatility in crypto?
+What factors contribute to crypto price volatility?
+How can one research a cryptocurrency project?
+What is due diligence in crypto investing?
+What are the tax implications of cryptocurrency?
+What is a crypto exchange listing?
+Why is liquidity important for a cryptocurrency?
