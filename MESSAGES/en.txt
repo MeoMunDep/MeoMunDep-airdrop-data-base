@@ -10472,3 +10472,88 @@ What is due diligence in crypto investing?
 What are the tax implications of cryptocurrency?
 What is a crypto exchange listing?
 Why is liquidity important for a cryptocurrency?
+What is a blockchain network?
+How does a node function in a blockchain network?
+What is a distributed ledger technology (DLT)?
+What is the difference between permissioned and permissionless blockchains?
+Give examples of public blockchains.
+Give examples of private blockchains.
+What is the role of cryptography in securing blockchain transactions?
+Explain a cryptographic hash function.
+What is the difference between symmetric and asymmetric encryption in crypto?
+What is a digital signature?
+How does a digital signature ensure transaction integrity?
+What is a nonce in blockchain?
+How does a nonce contribute to Proof of Work?
+What is the block reward?
+How does the block reward incentivize miners?
+What is transaction finality?
+How does transaction finality vary across different blockchains?
+What is the concept of gas limit in Ethereum?
+How does a user set a gas price?
+What happens if the gas limit is too low for a transaction?
+What is a blockchain oracle problem?
+How do decentralized oracles address the oracle problem?
+What is a cross-chain bridge?
+What are the risks associated with cross-chain bridges?
+What is the meaning of "slippage" in crypto trading?
+How can a trader minimize slippage?
+What is an automated market maker (AMM)?
+How do AMMs facilitate decentralized trading?
+What is impermanent loss in liquidity provision?
+How can impermanent loss be mitigated?
+What is a token standard?
+Give examples of common token standards (e.g., ERC-20, ERC-721).
+What is the utility of a utility token?
+What is the utility of a governance token?
+What is a security token?
+How does a security token differ from a utility token?
+What are the regulatory considerations for security tokens?
+What is a decentralized autonomous organization (DAO)?
+How do DAOs enable community governance?
+What are the challenges of managing a DAO?
+What is a multi-signature wallet?
+Why is a multi-signature wallet more secure than a single-signature wallet?
+What is a seed phrase?
+What is the importance of securing your seed phrase?
+What is a hardware wallet?
+How does a hardware wallet provide enhanced security?
+What is a paper wallet?
+What are the risks and benefits of using a paper wallet?
+What is a crypto exchange?
+What is the difference between a centralized and decentralized exchange?
+What are the advantages of using a centralized exchange?
+What are the advantages of using a decentralized exchange?
+What are the risks associated with using centralized exchanges?
+What are the risks associated with using decentralized exchanges?
+What is an initial coin offering (ICO)?
+What is an initial exchange offering (IEO)?
+What is a security token offering (STO)?
+How do ICOs, IEOs, and STOs differ?
+What are the potential legal issues with unregistered ICOs?
+What is market capitalization in crypto?
+How is fully diluted market capitalization calculated?
+Why is trading volume an important metric for crypto analysis?
+What is the bid-ask spread in crypto trading?
+How does a tight bid-ask spread indicate liquidity?
+What is a candlestick chart in crypto technical analysis?
+What information does a candlestick provide?
+What is a pump-and-dump scheme in crypto?
+How can one identify a potential pump-and-dump?
+What is a rug pull in crypto?
+How can investors avoid rug pulls?
+What are common phishing scams in crypto?
+How can users protect themselves from phishing attacks?
+What is a SIM swap attack?
+How can one prevent a SIM swap attack?
+What are the general tax principles for cryptocurrency in many jurisdictions?
+What constitutes a taxable event for cryptocurrency?
+Are crypto-to-crypto trades taxable?
+What are capital gains and losses in crypto?
+How are short-term capital gains taxed differently from long-term capital gains?
+What records should crypto investors keep for tax purposes?
+What is the significance of a crypto project's roadmap?
+What factors contribute to the credibility of a crypto project's team?
+How important is community engagement for a crypto project's success?
+What sources can be used to conduct due diligence on a crypto project?
+What red flags should investors look for when researching a crypto project?
