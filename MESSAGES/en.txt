@@ -9613,3 +9613,106 @@ What is the capital of Rwanda?
 How many teeth does a hourglass dolphin have?  
 What is the largest species of frigatebird?  
 Who invented the smart doorbell
+What is a blockchain
+How does proof of work differ from proof of stake
+What are gas fees on Ethereum
+How are crypto wallets secured
+What is a seed phrase
+What is a smart contract
+How does Bitcoin mining work
+What is halving in Bitcoin
+What are Ethereum Layer 2 solutions
+What is zk-rollup technology
+What is a decentralized exchange
+What is impermanent loss in liquidity pools
+How does staking earn rewards
+What is slashing in proof of stake
+What is a multisig wallet
+How does a DAO function
+What is an airdrop in crypto
+What is tokenomics
+What is a wrapped token
+What is a hard fork
+How is a soft fork different from a hard fork
+What is EVM compatibility
+What is the difference between a token and a coin
+How does a crypto bridge work
+What is a blockchain oracle
+What is MEV in Ethereum
+What is a rug pull
+What is DeFi
+What is CeFi
+What is a crypto faucet
+What is yield farming
+What is a governance token
+What is an NFT
+How does an NFT marketplace work
+What is the difference between ERC-20 and ERC-721
+What is a private key
+How are transactions validated in a blockchain
+What is cryptographic hashing
+What is Merkle tree in blockchain
+What is a nonce
+What is block time
+How are block rewards calculated
+What is a mempool
+What is a cold wallet
+What is a hot wallet
+What is a paper wallet
+How is a ledger wallet different from a Trezor
+What is the Lightning Network
+How does cross-chain interoperability work
+What is a sidechain
+What is the Bitcoin Taproot upgrade
+What is EIP-1559
+What is Solana
+How does Solana differ from Ethereum
+What is a validator node
+What is an RPC endpoint
+How do gas limit and gas price work
+What is a zero knowledge proof
+What is the use of Chainlink
+What is TVL in DeFi
+What is a flash loan
+What is front-running in trading
+What is a decentralized autonomous organization
+What is staking delegation
+What are synthetic assets
+What is on-chain governance
+How does token burning work
+What is a crypto token bridge
+What is a cross-chain swap
+What is a honeypot scam
+What is a whitelist in token sales
+What is a launchpad
+What is token vesting
+What is a bonding curve
+What is an index token
+What is a layer one blockchain
+What is a layer zero protocol
+What is Inter-Blockchain Communication
+What is Cosmos SDK
+What is Polkadot parachain
+What is Kusama
+What is the difference between staking and farming
+What is a liquidity provider token
+What is DAO tooling
+What is token staking lockup
+What is a validator slash
+What is rebase in crypto
+What is OlympusDAO
+What is veToken model
+What is a governance proposal
+What is APY vs APR
+What is composability in DeFi
+What is the difference between custodial and non-custodial wallets
+What is a multisig transaction
+How does account abstraction work
+What is a stealth address
+What is the role of RPC in blockchain apps
+What is a smart contract audit
+What is a gasless transaction
+What is a wallet signature
+What is sign-in with Ethereum
+What is delegated proof of stake
+What is a light client
