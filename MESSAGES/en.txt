@@ -9825,3 +9825,111 @@ How can blockchain be used in healthcare?
 How can blockchain be used in voting systems?
 What is quantum computing's potential impact on cryptography?
 How are blockchain systems preparing for quantum computing?
+What is Bitcoin and how does it work?  
+Explain the concept of blockchain technology.  
+How does mining work in cryptocurrencies?  
+What are smart contracts and how are they used?  
+What is the difference between Bitcoin and Ethereum?  
+What are altcoins and give some examples?  
+How do cryptocurrency wallets function?  
+What is a private key in crypto?  
+What is a public key in crypto?  
+What is a hash function in blockchain?  
+What is Proof of Work (PoW)?  
+What is Proof of Stake (PoS)?  
+What are the risks of investing in cryptocurrencies?  
+How do crypto exchanges operate?  
+What is a decentralized exchange (DEX)?  
+What is a stablecoin and why is it used?  
+What is Tether (USDT) and how does it maintain its peg?  
+What is the role of nodes in a blockchain network?  
+What is a 51% attack in crypto?  
+How does a hard fork differ from a soft fork?  
+What was the DAO hack and its impact on Ethereum?  
+What is the Lightning Network in Bitcoin?  
+What is yield farming in DeFi?  
+What is liquidity mining?  
+What are NFTs and how do they work?  
+What is the Metaverse and its relation to crypto?  
+What is Web3 and how is it linked to blockchain?  
+What is gas fee in Ethereum?  
+What is Ethereum 2.0 and its upgrades?  
+What is sharding in blockchain?  
+What is a crypto airdrop?  
+What is a rug pull in crypto?  
+What is a whitepaper in cryptocurrency?  
+Who is Satoshi Nakamoto?  
+What is the total supply of Bitcoin?  
+What happens when all Bitcoins are mined?  
+What is a memecoin?  
+What is Dogecoin and how did it start?  
+What is the difference between custodial and non-custodial wallets?  
+What is cold storage in crypto?  
+What is a hardware wallet?  
+What is a paper wallet?  
+What is multi-signature in crypto wallets?  
+What is KYC in cryptocurrency exchanges?  
+What is AML in the context of crypto?  
+What is a crypto faucet?  
+What is the difference between centralized and decentralized finance?  
+What is impermanent loss in DeFi?  
+What is staking in cryptocurrency?  
+What is a validator in PoS blockchains?  
+What is the role of oracles in blockchain?  
+What is Chainlink and how does it work?  
+What is Polkadot and its purpose?  
+What is Cardano and how does it differ from Ethereum?  
+What is Solana and its key features?  
+What is Avalanche and its consensus mechanism?  
+What is Terra and why did it collapse?  
+What is Ripple (XRP) and its use case?  
+What is Monero and its focus on privacy?  
+What is Zcash and how does it ensure anonymity?  
+What is the difference between fungible and non-fungible tokens?  
+What is IPFS and how does it relate to blockchain?  
+What is the Bitcoin halving and its impact?  
+What is a crypto derivative?  
+What is leverage trading in crypto?  
+What is a stop-loss in crypto trading?  
+What is a bull market in crypto?  
+What is a bear market in crypto?  
+What is HODL in cryptocurrency slang?  
+What is FOMO in crypto trading?  
+What is FUD in the crypto space?  
+What is a whale in cryptocurrency?  
+What is pump and dump in crypto?  
+What is a dead cat bounce in trading?  
+What is market capitalization in crypto?  
+What is circulating supply vs. total supply?  
+What is the Genesis Block in Bitcoin?  
+What is a replay attack in blockchain?  
+What is a Sybil attack in crypto networks?  
+What is a double-spend problem and how is it solved?  
+What is SegWit in Bitcoin?  
+What is Taproot and how does it improve Bitcoin?  
+What is the role of miners in blockchain?  
+What is MEV (Maximal Extractable Value)?  
+What is a flash loan in DeFi?  
+What is DeFi and how does it differ from traditional finance?  
+What is CeFi in cryptocurrency?  
+What is a governance token in DeFi?  
+What is an ICO (Initial Coin Offering)?  
+What is an IDO (Initial DEX Offering)?  
+What is an IEO (Initial Exchange Offering)?  
+What is a SAFT in crypto fundraising?  
+What is a DAO and how does it function?  
+What is GameFi and how does it work?  
+What is play-to-earn in crypto gaming?  
+What is Axie Infinity and its economic model?  
+What is The Sandbox and its use of NFTs?  
+What is Decentraland and its virtual economy?  
+What is cross-chain interoperability?  
+What is a bridge in blockchain?  
+What are wrapped tokens and their purpose?  
+What is algorithmic stablecoin?  
+What is CBDC and how does it differ from crypto?  
+What is quantum computing’s threat to blockchain?  
+What is zero-knowledge proof in crypto?  
+What is zk-SNARK and its role in privacy?  
+What is layer 1 vs. layer 2 in blockchain?  
+What is the future of cryptocurrency?  
