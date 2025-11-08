@@ -12059,3 +12059,106 @@ What is the importance of block proposer fairness?
 Why do L2s need shared sequencing layers?
 What are universal rollups?
 How do decentralized compute networks connect with blockchains?
+What is the fundamental difference between Bitcoin and Ethereum?
+How does proof-of-work compare to proof-of-stake in terms of security and energy use?
+What are the practical uses of smart contracts beyond token transfers?
+How do layer-2 solutions like rollups reduce Ethereum gas fees?
+What is liquidity mining and how can it be profitable?
+How does impermanent loss occur in automated market makers (AMMs)?
+What are the risks and benefits of staking a cryptocurrency?
+How do decentralized exchanges (DEXs) differ from centralized exchanges (CEXs)?
+What is a flash loan and how can it be abused?
+How do oracles like Chainlink provide real-world data to blockchains?
+What is tokenomics and why does supply schedule matter?
+How do stablecoins maintain their peg to fiat currencies?
+What are the main attack vectors for smart contracts?
+How do hardware wallets protect private keys better than software wallets?
+What is a DAO and what governance problems do DAOs face?
+How do cross-chain bridges work and why are they often exploited?
+What is MEV (miner/executor extractable value) and why is it controversial?
+What is the environmental impact of crypto mining and can it be mitigated?
+How do zero-knowledge proofs improve privacy on public blockchains?
+What is a layer-1 blockchain and what trade-offs does it make?
+How do NFT royalties work and can they be enforced on-chain?
+What are the pros and cons of custodial vs non-custodial wallets?
+How do privacy coins like Monero and Zcash achieve transaction privacy?
+What role do validators play in proof-of-stake networks?
+How do token burns affect token price and supply dynamics?
+What is slippage and how can traders minimize it?
+How does on-chain governance influence protocol upgrades?
+What are the legal and tax implications of crypto trading in my country?
+What is an initial coin offering (ICO) vs an initial exchange offering (IEO)?
+How does cross-chain messaging differ from token bridging?
+What security best practices should NFT creators follow?
+What is a rebase token and how does it affect balances?
+How does a decentralized identity (DID) system work on blockchain?
+What is yield farming and how does leverage increase both returns and risk?
+What are the signs of a rug pull in DeFi projects?
+How do pegged tokens work on different blockchains?
+What is the role of gas in Ethereum transactions and how is it calculated?
+How do validator slashing mechanisms help maintain network security?
+What are synthetic assets and how can they track real-world prices?
+What is front-running and how do protocols attempt to prevent it?
+How does a multisignature wallet increase account security?
+What is the difference between ERC-20, ERC-721, and ERC-1155 token standards?
+How can decentralized insurance protocols mitigate smart contract risk?
+What is on-chain vs off-chain data and when is each appropriate?
+How do blockchain explorers help with transparency and auditing?
+What are the trade-offs of using layer-0 or interoperability protocols?
+How does a bonding curve work for token issuance and pricing?
+What is a governance token and how does it align incentives?
+How can decentralized identity reduce fraud in Web3 applications?
+What are the economic incentives for running a full node?
+How do atomic swaps enable trustless exchange between chains?
+What is sharding and how could it scale blockchains?
+What is the Lightning Network and how does it scale Bitcoin payments?
+How do NFTs enable provenance and authenticity for digital art?
+What metrics should you monitor before investing in a crypto project?
+How does slashing risk affect small vs large stakers?
+What are MEV-aware block builders and how do they operate?
+What is the function of a decentralized autonomous organization treasury?
+How are oracles kept secure against manipulation attacks?
+What is token vesting and why do projects implement it?
+How does a DAO vote get executed in smart contract code?
+What is a sidechain and how does it differ from a rollup?
+How can zk-rollups preserve privacy while scaling transactions?
+What is a permissioned blockchain and who uses them?
+How do cross-chain decentralized identifiers assist in interoperability?
+What is the role of a market maker in crypto exchanges?
+How do gas tokens and fee tokens affect transaction costs?
+What strategies reduce the impact of front-running on trades?
+What is a staking derivative and what liquidity benefits does it offer?
+How do zero-knowledge SNARKs differ from STARKs?
+What are privacy-preserving smart contract platforms doing differently?
+How can token airdrops be used as marketing and distribution tools?
+What are the regulatory challenges facing stablecoin issuers?
+How does proof-of-history (PoH) work in Solana and what problems does it solve?
+What are the best practices for securing private keys long-term?
+How does token wrapping enable cross-chain usage of assets?
+What is the role of a relayer in optimistic rollups?
+How do governance attacks happen and how can they be prevented?
+What is cross-margin vs isolated margin in crypto derivatives trading?
+How do oracle price feeds handle sudden market shocks?
+What is a memecoin and why do some gain huge market caps?
+How do decentralized exchanges ensure price discovery?
+What auditing steps should be taken before locking funds in a smart contract?
+How do validator sets get chosen in different consensus protocols?
+What are the pros and cons of on-chain order books vs AMMs?
+How does a non-custodial lending protocol manage liquidations?
+What is yield optimization and how do yield aggregators work?
+How can one detect wash trading on crypto exchanges?
+What is composability and why is it important in DeFi?
+How do permissionless blockchains handle spam and denial-of-service risks?
+What is the impact of high-frequency trading bots on crypto markets?
+How does composable finance enable building complex products from primitives?
+What are the main causes of cross-chain bridge failures?
+How do stablecoin reserves get audited and verified?
+What is the difference between custodial staking and protocol staking?
+How are layer-2 fees distributed to sequencers or validators?
+What is the function of off-chain workers in blockchain ecosystems?
+How do blockchain-based oracles differ from centralized APIs?
+What strategies reduce tax liability legally when trading crypto?
+What are the technical reasons behind Ethereum’s merge and subsequent upgrades?
+How do decentralized identity solutions interact with wallets?
+What is a gasless transaction and who benefits from them?
+How do NFT fractionalization platforms work and what legal issues arise?
